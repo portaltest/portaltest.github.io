@@ -1,0 +1,12 @@
+#navigation {
+    border: 5px solid black;
+    border-radius: 10px;
+}
+
+.bgGrey {
+    background-color: grey;
+}
+
+span {
+    color: pink;
+}
